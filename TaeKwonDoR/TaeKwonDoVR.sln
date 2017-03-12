@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaeKwonDoVR", "TaeKwonDoVR.csproj", "{5EF7C12A-CC6C-DC2B-0AF7-E1F9DF0B4879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaeKwonDoVR.Editor", "TaeKwonDoVR.Editor.csproj", "{973763BD-DA43-8483-E7D9-FF7E9FE3F5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF7C12A-CC6C-DC2B-0AF7-E1F9DF0B4879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF7C12A-CC6C-DC2B-0AF7-E1F9DF0B4879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF7C12A-CC6C-DC2B-0AF7-E1F9DF0B4879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF7C12A-CC6C-DC2B-0AF7-E1F9DF0B4879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973763BD-DA43-8483-E7D9-FF7E9FE3F5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973763BD-DA43-8483-E7D9-FF7E9FE3F5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973763BD-DA43-8483-E7D9-FF7E9FE3F5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973763BD-DA43-8483-E7D9-FF7E9FE3F5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
